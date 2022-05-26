@@ -28,13 +28,13 @@ This repository is a template for Terraform project.
 ### Initialize a working directory containing Terraform configuration files
 - Initialize production
     ```
-    $ cd environments/prod/
+    $ cd envs/prd/
     $ terraform init
     ```
 
 - Initialize staging
     ```
-    $ cd environments/stage/
+    $ cd envs/stg/
     $ terraform init
     ```
 
