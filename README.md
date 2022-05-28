@@ -5,7 +5,7 @@ This repository is a template for Terraform project.
 
 ## Requirement
 - Terraform
-  - 0.13.2
+  - 1.2.1
 
 ## Install
 ### direnv
